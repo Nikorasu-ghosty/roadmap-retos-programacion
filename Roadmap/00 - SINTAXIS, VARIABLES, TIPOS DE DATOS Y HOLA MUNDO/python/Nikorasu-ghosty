@@ -1,0 +1,29 @@
+# https://python.org
+
+# Comentarios en una línea
+
+"""
+Esto es un comentario 
+en varias lineas y
+es incapaz de afectar 
+al codigo del lenguaje
+de programación
+"""
+
+my_ont = "Mi variable"
+my_ont = "Nuevo valor de mi variable"
+
+my_variable = 10
+my_variable = 20 
+
+MY_CONSTANT = "Mi constante" #por convención 
+
+my_float = 1.5
+my_bool = True
+my_bool = False
+my_string = "Mi cadena de texto"
+my_other_string = 'Mi otra cadena de texto'
+
+print("¡Hola, Python!")
+
+
